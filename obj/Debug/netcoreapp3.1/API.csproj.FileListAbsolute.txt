@@ -1,0 +1,16 @@
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\ahmad\OneDrive\Desktop\TRUE CODERS\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
